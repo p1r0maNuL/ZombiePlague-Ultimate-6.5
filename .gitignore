@@ -1,0 +1,26 @@
+# Compiled files
+*.amxx
+*.lst
+*.asm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# Temp
+tmp/
+temp/
